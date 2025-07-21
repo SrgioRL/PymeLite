@@ -1,0 +1,8 @@
+# Normaliza saltos de línea para archivos de texto
+* text=auto
+
+# Forzar LF para archivos YAML
+*.yml text eol=lf
+
+# Forzar LF para scripts shell (si tienes)
+*.sh text eol=lf
