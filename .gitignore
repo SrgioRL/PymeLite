@@ -1,0 +1,31 @@
+# Java and Maven
+/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Eclipse
+/.metadata/
+/.settings/
+/.project
+.classpath
+
+# VS Code
+.vscode/
+
+# Node.js / Angular
+/node_modules/
+/dist/
+/build/
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE JetBrains
+.idea/
+*.iml
